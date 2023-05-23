@@ -1,6 +1,6 @@
 
 
-![cqjtu](E:\GithubPushedProjects\CollegePassGuide\Docs\images\cqjtu.png)
+![cqjtu](.\Docs\images\cqjtu.png)
 
 # 大学通关指南
 
