@@ -1,6 +1,8 @@
-
+![](\Docs\images\cqjtu.jpg)
 
 ![](\Docs\images\cqjtu.png)
+
+![](Docs/images/cqjtu.jpg)
 
 # 大学通关指南
 
