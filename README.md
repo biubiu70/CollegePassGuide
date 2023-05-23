@@ -1,6 +1,6 @@
-![1684800341840](C:\Users\帅帅\AppData\Roaming\Typora\typora-user-images\1684800341840.png)
 
 
+![cqjtu](E:\GithubPushedProjects\CollegePassGuide\Docs\images\cqjtu.png)
 
 # 大学通关指南
 
