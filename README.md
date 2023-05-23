@@ -1,9 +1,8 @@
-
-![](/Docs/images/cqjtu.png)
-
 ![](Docs/images/cqjtu.jpg)
 
-
+<div align="center">
+    <img src="Docs/images/cqjtu.jpg" alt="cqjtu">
+</div>
 
 # 大学通关指南
 
