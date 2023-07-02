@@ -1,5 +1,3 @@
-![](Docs/images/cqjtu.jpg)
-
 <div align="center">
     <img src="Docs/images/cqjtu.jpg" alt="cqjtu">
 </div>
